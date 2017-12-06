@@ -1,0 +1,7 @@
+platform:ios,'8.0'
+target "Testwz" do
+pod 'QCloudCOSV4', '~> 1.5.3'
+pod 'AFNetworking', '~> 3.1.0'
+pod 'CocoaSecurity', '~> 1.2.4'
+end
+
